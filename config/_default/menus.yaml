@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 78b809a5-96d8-4ce2-bb20-39c7d6d8f421
+  name: The Toolkit
+  pageRef: /external-resources/the-toolkit_78b809a5-96d8-4ce2-bb20-39c7d6d8f421
+  weight: 10
+- identifier: 2ed2f0a0-195d-4472-b20a-157fa2166a25
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
